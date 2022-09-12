@@ -11,10 +11,10 @@ assignees: ''
 
 
 **To Dos**
--[] Draft post
--[] Validate team
--[] Make graphics
+- [ ] Draft post
+- [ ] Validate team
+- [ ] Make graphics
 - Release on socials
-  -[] Twitter
-  -[] LinkedIn
-  -[] Discord
+  - [ ] Twitter
+  - [ ] LinkedIn
+  - [ ] Discord
