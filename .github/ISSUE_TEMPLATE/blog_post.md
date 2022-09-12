@@ -14,7 +14,7 @@ assignees: ''
 - [ ] Draft post
 - [ ] Validate team
 - [ ] Make graphics
-- Release on socials
+- **Release on socials**
   - [ ] Twitter
   - [ ] LinkedIn
   - [ ] Discord
