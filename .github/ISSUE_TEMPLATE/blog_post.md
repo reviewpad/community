@@ -11,6 +11,8 @@ assignees: ''
 
 Idea of the post...
 
+**Deadline:** DD/MM/YYYY, 17:00 Lisbon time
+
 **To Dos**
 - [ ] Draft post
 - [ ] Validate team
