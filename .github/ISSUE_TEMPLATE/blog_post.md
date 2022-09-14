@@ -14,6 +14,7 @@ Idea of the post...
 **Deadline:** DD/MM/YYYY, 17:00 Lisbon time
 
 **To Dos**
+- [ ] Research
 - [ ] Draft post
 - [ ] Validate team
 - [ ] Make graphics
