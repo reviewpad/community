@@ -9,6 +9,7 @@ assignees: ''
 
 **Describe the idea of the post**
 
+Idea of the post...
 
 **To Dos**
 - [ ] Draft post
@@ -18,3 +19,13 @@ assignees: ''
   - [ ] Twitter
   - [ ] LinkedIn
   - [ ] Discord
+
+
+
+**`↓ Draft ↓`**
+
+# Post title
+
+> Post excerpt
+
+Post body
